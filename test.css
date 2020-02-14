@@ -1,0 +1,60 @@
+.div1 {
+    height: 300px;
+    width: 300px;
+    background-color: cadetblue;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+#num1 {
+    height: 30px;
+    width: 80px;
+    margin-top: 30px;
+}
+
+#num2 {
+    height: 30px;
+    width: 80px;
+    margin-top: 20px;
+}
+
+.btn1 {
+    background-color: chartreuse;
+    margin-left: 50px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.btn2 {
+    background-color: cornflowerblue;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.btn3 {
+    background-color: lightsalmon;
+    margin-left: 50px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.btn4 {
+    background-color: palegoldenrod;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.div2 {
+    height: 80px;
+    width: 100%;
+    text-align: center;
+}
+
+#res {
+    color: darkblue;
+}
